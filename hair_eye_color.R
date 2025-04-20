@@ -41,3 +41,4 @@ profils_colonnes <- prop.table(donnees, margin = 2)
 
 print("Profils-colonnes (distribution des yeux pour chaque couleur de cheveux) :")
 round(profils_colonnes, 3)  # Arrondi à 3 décimales
+
