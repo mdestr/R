@@ -22,6 +22,7 @@ ggplot(data, aes(x = Niveau, y = Eleve, fill = Niveau)) +
   scale_fill_manual(values = c("blue", "green", "red", "purple", "orange"))
 
 
+library(dplyr)
 # Statistiques globales
 moyenne_globale <- mean(data$Eleve)
 taille_totale <- length(data$Eleve)
@@ -52,3 +53,17 @@ print(stats_par_niveau)
 if (require(knitr)) {
   knitr::kable(stats_par_niveau, caption = "Moyenne et effectif par niveau")
 }
+
+# Calcul de la somme des carrés des écarts à la moyenne globale
+somme_carres <- sum((stats_par_niveau$Moyenne - moyenne_globale)^2)
+cat("Somme des carrés des écarts à la moyenne globale :", somme_carres, "\n")
+
+# Calcule la variance intergroupe pondérée par l'effectif de chaque groupe
+variance_intergroupe <- sum(stats_par_niveau$Effectif * (stats_par_niveau$Moyenne - moyenne_globale)^2)
+cat("Variance intergroupe :", variance_intergroupe, "\n")
+
+anova_result <- aov(Eleve ~ Niveau, data = data)
+summary(anova_result)
+
+
+
