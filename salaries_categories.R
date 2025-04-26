@@ -8,7 +8,7 @@
 # Employés	[30,35[	95	[25,60[	15
 # Cadres	[80,100[	5	[70,80[	30
 
-# Pour répondre aux diérentes questions, on considèrera que tous les individus d'une même classe 
+# Pour répondre aux diérentes questions, on considèrera que tous les individus d'une même classe 
 # ont un salaire identique, égal au centre de la classe.
 
 # 1. Définir les centres de classe et les effectifs

@@ -1,4 +1,4 @@
-decathlon<-read.table("/home/destremonma/Master_Cnam/STA101 - Analyse des données méthodes descriptives/R/decathlon/decathlon.txt", 
+decathlon<-read.table("/home/destremonma/Master_Cnam/STA101-Analyse des données méthodes descriptives/R/decathlon/decathlon.txt", 
                       stringsAsFactors = TRUE)
 
 summary(decathlon)
