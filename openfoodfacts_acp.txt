@@ -1,0 +1,89 @@
+"product_name_fr" "energy-kj_value" "energy-kcal_value" "fat_value" "saturated-fat_value" "carbohydrates_value" "sugars_value" "fiber_value" "proteins_value" "salt_value" "sodium_value" "energy_value" "off:nutriscore_score" "off:environmental_score_score"
+"Dark chocolate 70%" 24.28 5.80 0.42 0.25 0.36 0.29 0.10 0.09 0.00 0.00 24.28 0.20 0.40
+"70% Cacao noir intense" 23.50 5.66 0.41 0.24 0.34 0.30 0.00 0.10 0.00 0.00 23.50 0.25 0.29
+"Excellence 85% Cacao Rich Dark" 24.18 5.84 0.46 0.27 0.22 0.14 0.00 0.13 0.00 0.00 24.18 0.20 0.26
+"Chocolat Noir Pour Préparations Pâtissière" 22.85 5.48 0.34 0.20 0.51 0.46 0.07 0.06 0.00 0.00 22.85 0.25 0.43
+"Doux 70% noir subtil" 25.28 6.10 0.48 0.29 0.33 0.29 0.00 0.07 0.00 0.00 25.28 0.25 0.29
+"Sweet & Salty Nut chocolat noir et mélange de noix, 5 barres de 30 g" 19.40 4.64 0.23 0.09 0.50 0.23 0.10 0.10 0.01 0.00 19.40 0.18 0.39
+"Excellence Noir Orange Intense Aux amandes effilées" 22.29 5.35 0.32 0.17 0.51 0.46 0.00 0.07 0.00 0.00 22.29 0.29 0.70
+"Excellence Orange Intense Noir" 22.29 5.35 0.32 0.17 0.51 0.46 0.00 0.07 0.00 0.00 22.29 0.29 0.30
+"NESTLE DESSERT Lait 170g" 23.11 5.54 0.34 0.20 0.53 0.51 0.04 0.07 0.00 0.00 23.11 0.29 0.37
+"TOBLERONE" 22.46 5.37 0.29 0.17 0.62 0.62 0.00 0.06 0.00 0.00 22.46 0.31 0.34
+"Au Lait du Pays Alpin" 22.51 5.39 0.31 0.19 0.57 0.55 0.02 0.07 0.00 0.00 22.51 0.32 0.26
+"Milk Chocolate Bar" 22.09 5.28 0.29 0.17 0.61 0.60 0.02 0.06 0.00 0.00 22.09 0.31 0.19
+"Tablette Lait noisettes et amandes pilées" 23.62 5.65 0.37 0.18 0.47 0.46 0.03 0.09 0.00 0.00 23.62 0.30 0.47
+"Chocolat dessert pâtissier" 21.39 5.13 0.30 0.18 0.51 0.48 0.08 0.05 0.00 0.00 21.39 0.24 0.29
+"Kitkat Milk Chocolate 2 Finger Biscuit Bar" 21.03 5.02 0.25 0.13 0.62 0.49 0.02 0.07 0.00 0.00 21.03 0.31 0.23
+"Toblerone" 22.09 5.28 0.28 0.17 0.61 0.60 0.02 0.06 0.00 0.00 22.09 0.31 0.69
+"GALAK Chocolat Blanc Tablette 100g" 23.15 5.54 0.33 0.20 0.60 0.59 0.01 0.05 0.00 0.00 23.15 0.32 0.35
+"Fox's Milk Chocolate Rounds" 21.42 5.12 0.26 0.15 0.62 0.50 0.00 0.06 0.00 0.00 21.42 0.32 0.22
+"Tablette noir 48% - 150g BIO" 21.37 5.13 0.26 0.17 0.60 0.27 0.04 0.07 0.00 0.00 21.37 0.22 0.65
+"Mila" 22.91 5.47 0.36 0.25 0.47 0.34 0.03 0.08 0.00 0.00 22.91 0.25 0.53
+"Barres Chocolat au Lait Noisette" 19.04 4.53 0.17 0.07 0.67 0.30 0.03 0.07 0.01 0.00 19.04 0.22 0.54
+"Twix" 20.65 4.93 0.24 0.14 0.65 0.49 0.00 0.04 0.00 0.00 20.65 0.32 0.45
+"Sweet and salty nut dark chocolate" 19.38 4.64 0.23 0.09 0.50 0.23 0.10 0.10 0.01 0.00 19.38 0.18 0.41
+"KITKAT Mini Barre au chocolat au Lait, 200g" 21.44 5.12 0.27 0.15 0.60 0.44 0.03 0.07 0.00 0.00 21.44 0.28 0.43
+"Twix 10x2" 20.65 4.95 0.24 0.14 0.65 0.49 0.00 0.05 0.00 0.00 20.65 0.32 0.27
+"Lindt Lait Noisettes" 23.32 5.60 0.36 0.16 0.49 0.49 0.00 0.07 0.00 0.00 23.32 0.31 0.19
+"Línea barritas de cereales con chocolate blanco" 14.15 3.38 0.09 0.05 0.72 0.02 0.05 0.07 0.00 0.00 14.15 0.06 0.51
+"Les Tablettes AU CHOCOLAT AU LAIT" 21.23 5.06 0.22 0.14 0.69 0.40 0.03 0.07 0.01 0.00 21.23 0.30 0.39
+"Tablette de chocolat au lait avec noisettes torréfiées et fleur de sel" 24.53 5.88 0.44 0.21 0.37 0.35 0.06 0.10 0.00 0.00 24.53 0.25 0.52
+"Barre Chocolatée Kinder Country Céréales chocolat x4 - 94g" 23.42 5.61 0.34 0.22 0.55 0.49 0.00 0.09 0.00 0.00 23.42 0.31 0.30
+"Chocolate Con Leche Nestlé Extrafino (3X125G)" 22.62 5.42 0.31 0.18 0.59 0.58 0.02 0.06 0.00 0.00 22.62 0.31 0.34
+"KitKat Chunky" 21.58 5.26 0.27 0.15 0.59 0.47 0.02 0.08 0.00 0.00 21.58 0.30 0.62
+"Tablette de chocolat au lait 55% de cacao" 24.27 5.80 0.43 0.26 0.36 0.34 0.08 0.09 0.00 0.00 24.27 0.22 0.50
+"Tablette de chocolat au lait 45% de cacao avec inclusions caramel et fleur de sel" 23.10 5.52 0.36 0.22 0.47 0.44 0.05 0.08 0.00 0.00 23.10 0.27 0.53
+"Kinder Maxi" 23.60 5.66 0.35 0.23 0.54 0.53 0.00 0.09 0.00 0.00 23.60 0.33 0.34
+"excellence orange amandes" 24.42 5.81 0.44 0.27 0.35 0.32 0.00 0.07 0.00 0.00 24.42 0.26 0.29
+"Barres chocolat au lait Cœur fondant au lait" 22.52 5.39 0.30 0.15 0.60 0.40 0.02 0.06 0.00 0.00 22.52 0.28 0.52
+"Côte d'Or noir noisettes" 23.69 5.70 0.39 0.16 0.44 0.41 0.07 0.07 0.00 0.00 23.69 0.24 0.15
+"Les Tablettes CHOCOLAT NOIR" 21.42 5.11 0.23 0.14 0.67 0.36 0.04 0.07 0.01 0.00 21.42 0.27 0.44
+"Milka Noisette entière" 23.46 5.63 0.37 0.16 0.47 0.45 0.04 0.08 0.00 0.00 23.46 0.30 0.19
+"Tablette blanc 48% - 150g" 21.07 5.05 0.23 0.15 0.66 0.37 0.01 0.06 0.01 0.00 21.07 0.29 0.51
+"4 Chocolat 70% de cacao" 14.93 3.59 0.24 0.16 0.27 0.27 0.06 0.05 0.00 0.00 14.93 0.18 0.80
+"10 choco barres" 20.82 5.07 0.26 0.13 0.59 0.33 0.03 0.08 0.01 0.00 20.82 0.27 0.31
+"Barre chocolat fourrée au lait x 5" 21.93 5.24 0.27 0.16 0.64 0.42 0.02 0.06 0.00 0.00 21.93 0.29 0.22
+"Tablette de chocolat au lait 45% de cacao et café" 23.81 5.69 0.40 0.24 0.42 0.40 0.05 0.09 0.00 0.00 23.81 0.27 0.53
+"Tablette Chocolat Noir" 18.80 4.51 0.24 0.16 0.60 0.01 0.06 0.07 0.00 0.00 18.80 0.13 0.32
+"Les Tablettes GOÛT NOISETTE CHOCOLAT AU LAIT" 20.70 4.94 0.23 0.14 0.64 0.38 0.03 0.06 0.01 0.00 20.70 0.30 0.35
+"Les tablettes" 21.59 5.16 0.26 0.15 0.63 0.43 0.02 0.07 0.00 0.00 21.59 0.29 0.32
+"Bouchées de chocolat noir cœur saveur cerise" 19.57 4.72 0.28 0.17 0.48 0.42 0.00 0.05 0.00 0.00 19.57 0.27 0.79
+"Les Tablettes COEUR AU LAIT CHOCOLAT AU LAIT" 21.55 5.15 0.26 0.16 0.63 0.43 0.02 0.06 0.00 0.00 21.55 0.29 0.35
+"Tablette noisette 48% - 150g" 20.90 4.99 0.23 0.14 0.65 0.35 0.03 0.07 0.01 0.00 20.90 0.28 0.54
+"Galaxy smooth milk" 22.79 5.46 0.32 0.20 0.56 0.55 0.00 0.07 0.00 0.00 22.79 0.32 0.28
+"Turron viena" 22.11 5.29 0.30 0.15 0.58 0.39 0.00 0.07 0.00 0.00 22.11 0.27 0.12
+"Bounty" 20.37 4.87 0.26 0.21 0.59 0.48 0.00 0.04 0.00 0.00 20.37 0.30 0.61
+"Tablette de chocolat au lait avec noix de coco toastées" 23.84 5.71 0.40 0.26 0.43 0.42 0.04 0.09 0.00 0.00 23.84 0.29 0.51
+"Kit Kat chunky" 21.60 5.16 0.27 0.15 0.59 0.47 0.02 0.08 0.00 0.00 21.60 0.30 0.23
+"Kras Dorina Milk Chocolate With Puffed Rice Bar" 21.86 5.21 0.28 0.16 0.59 0.48 0.00 0.08 0.00 0.00 21.86 0.30 0.19
+"Balisto" 20.97 5.01 0.25 0.11 0.61 0.44 0.00 0.06 0.01 0.00 20.97 0.31 0.72
+"Sucette en chocolat noir avec petits biscuits" 22.83 5.49 0.35 0.22 0.47 0.36 0.00 0.06 0.01 0.00 22.83 0.31 0.72
+"4 Praliné Les Bâtonnets Gourmands" 13.63 3.27 0.20 0.12 0.31 0.27 0.02 0.04 0.00 0.00 13.63 0.21 0.71
+"KITKAT Chunky Peanut Butter Wrapper 42g" 22.02 5.27 0.30 0.15 0.52 0.43 0.03 0.10 0.01 0.00 22.02 0.30 0.38
+"Choco Nussa To Go" 21.34 5.10 0.27 0.09 0.59 0.39 0.00 0.07 0.00 0.00 21.34 0.25 0.45
+"Bueno - Fines gaufrettes enrobées de chocolat au lait et noisettes" 23.84 5.72 0.37 0.17 0.50 0.41 0.00 0.09 0.00 0.00 23.84 0.30 0.27
+"Chocolat Noir Orange Intense Jardin Bio" 23.42 5.63 0.38 0.23 0.45 0.42 0.08 0.06 0.00 0.00 23.42 0.23 0.94
+"Milka & Go" 22.28 5.33 0.28 0.17 0.64 0.64 0.00 0.04 0.00 0.00 22.28 0.32 0.20
+"Menier Swiss Milk Chocolate" 22.63 5.42 0.31 0.18 0.57 0.56 0.02 0.08 0.00 0.00 22.63 0.31 0.39
+"Chocolats fruités" 17.35 4.16 0.23 0.14 0.44 0.42 0.00 0.05 0.00 0.00 17.35 0.27 0.56
+"Kitkat pops noisettes & éclats de cacao" 22.06 5.28 0.30 0.16 0.55 0.41 0.03 0.08 0.00 0.00 22.06 0.27 0.43
+"Palets au praliné et copeaux de fèves de cacao" 22.92 5.52 0.40 0.17 0.38 0.36 0.08 0.07 0.00 0.00 22.92 0.21 0.54
+"Chocolat noir au sel marin" 22.34 5.35 0.38 0.23 0.31 0.26 0.00 0.09 0.01 0.00 22.34 0.25 0.15
+"Chocolat" 22.81 5.45 0.39 0.23 0.35 0.31 0.00 0.08 0.00 0.00 22.81 0.24 0.22
+"Tablette noisette 48% - 150g" 20.90 4.99 0.23 0.14 0.65 0.35 0.03 0.07 0.01 0.00 20.90 0.28 0.45
+"Tablette noir 48% - 150g BIO" 21.38 5.10 0.26 0.16 0.60 0.27 0.04 0.07 0.00 0.00 21.38 0.22 0.65
+"Tablette lait 48% - 150g BIO" 21.37 5.05 0.25 0.14 0.63 0.33 0.02 0.07 0.01 0.00 21.37 0.27 0.65
+"Barre chocolat lait, fourré au lait" 21.27 5.07 0.25 0.14 0.64 0.43 0.02 0.06 0.01 0.00 21.27 0.31 0.26
+"Nestle Swiss Bar Dark Chocolate" 22.36 5.36 0.31 0.18 0.55 0.53 0.08 0.04 0.00 0.00 22.36 0.26 0.15
+"Kinder country - Barres individuelles au chocolat au lait et aux céréales" 23.26 5.57 0.33 0.22 0.55 0.49 0.01 0.09 0.00 0.00 23.26 0.31 0.41
+"Ganache cerise Gerezia, noir 70%" 21.50 5.17 0.36 0.23 0.37 0.34 0.00 0.05 0.00 0.00 21.50 0.25 0.56
+"Wawel Dark Chocolate" 23.90 5.76 0.43 0.27 0.32 0.28 0.00 0.10 0.00 0.00 23.90 0.25 0.20
+"Barre Chocolatée Kinder Maxi Chocolat au Lait x5 - 105g" 23.60 5.66 0.35 0.23 0.54 0.53 0.00 0.09 0.00 0.00 23.60 0.33 0.24
+"Chocolat blanc" 13.37 3.21 0.20 0.15 0.31 0.28 0.01 0.03 0.00 0.00 13.37 0.22 0.82
+"Noir 73,8%" 23.65 5.71 0.43 0.27 0.31 0.27 0.16 0.08 0.00 0.00 23.65 0.19 0.47
+"Tablette chocolat noir caramel beurre salé" 22.54 5.39 0.34 0.22 0.50 0.50 0.00 0.04 0.00 0.00 22.54 0.32 0.27
+"Chocolat Villars Noir Gin Herbacé de Grande-Bretagne 100g" 20.20 4.80 0.26 0.16 0.52 0.50 0.05 0.04 0.00 0.00 20.20 0.28 0.16
+"Tablette chocolat / fruits et céréales" 22.97 5.49 0.34 0.15 0.51 0.50 0.00 0.09 0.00 0.00 22.97 0.31 0.56
+"Chocolat au lait lentilles de couleur" 22.92 5.48 0.34 0.20 0.52 0.50 0.00 0.08 0.00 0.00 22.92 0.31 0.34
+"Chocolat au lait et gianduja sans sucre ajouté" 20.37 4.90 0.36 0.16 0.52 0.07 0.03 0.07 0.00 0.00 20.37 0.17 0.19
+"Barre chocolat au lait" 21.59 5.16 0.26 0.15 0.63 0.43 0.02 0.07 0.00 0.00 21.59 0.29 0.29

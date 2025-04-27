@@ -1,0 +1,7 @@
+"product_name_fr" "energy-kj_value" "energy-kcal_value" "fat_value" "saturated-fat_value" "carbohydrates_value" "sugars_value" "fiber_value" "proteins_value" "salt_value" "sodium_value" "energy_value" "off:nutriscore_score" "off:environmental_score_score"
+"Dark chocolate 70%" 24.28 5.80 0.42 0.25 0.36 0.29 0.10 0.09 0.00 0.00 24.28 0.20 0.40
+"70% Cacao noir intense" 23.50 5.66 0.41 0.24 0.34 0.30 0.00 0.10 0.00 0.00 23.50 0.25 0.29
+"Excellence 85% Cacao Rich Dark" 24.18 5.84 0.46 0.27 0.22 0.14 0.00 0.13 0.00 0.00 24.18 0.20 0.26
+"Chocolat Noir Pour Préparations Pâtissière" 22.85 5.48 0.34 0.20 0.51 0.46 0.07 0.06 0.00 0.00 22.85 0.25 0.43
+"Doux 70% noir subtil" 25.28 6.10 0.48 0.29 0.33 0.29 0.00 0.07 0.00 0.00 25.28 0.25 0.29
+"Sweet & Salty Nut chocolat noir et mélange de noix, 5 barres de 30 g" 19.40 4.64 0.23 0.09 0.50 0.23 0.10 0.10 0.01 0.00 19.40 0.18 0.39
