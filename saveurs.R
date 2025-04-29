@@ -73,3 +73,9 @@ print(GJ)
 library(FactoMineR)
 res.CA <- CA(M, graph=FALSE)
 res.CA$eig  # Affiche l'inertie totale et par axe
+
+# Coordonnées des lignes (premier axe)
+res.CA$row$coord[,1]  # Doit correspondre à F_1(i)
+
+# Coordonnées des colonnes (premier axe)
+res.CA$col$coord[,1]  # Doit correspondre à G_1(j)
