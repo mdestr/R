@@ -10,6 +10,45 @@ nba <- read.table("./nba_players_stats_merged.csv",
                   dec = ".",        # Point comme séparateur décimal
                   stringsAsFactors = TRUE)
 
+
+
+# K-means pour discrétiser la taille
+set.seed(123)
+km <- kmeans(nba$Height, centers = 3)
+
+# Récupère les centres triés (par ordre croissant)
+ordered_centers <- order(km$centers)
+
+# Associe à chaque cluster son rang : petit (1), moyen (2), grand (3)
+cluster_to_label <- c("petit", "moyen", "grand")
+names(cluster_to_label) <- ordered_centers
+
+# Applique la bonne étiquette
+nba$Height_cat <- cluster_to_label[as.character(km$cluster)]
+
+
+# Crée un tableau disjonctif à partir de la variable Height_cat
+dummies <- model.matrix(~ Height_cat - 1, data = nba)
+
+# S'assurer que Player est du type caractère
+nba$Player <- as.character(nba$Player)
+
+# Combiner correctement avec les colonnes disjonctives
+nba_dummies <- cbind(Player = nba$Player, nba$Height, dummies)
+
+# Afficher les premières lignes
+head(nba_dummies)
+# Exporter le tableau disjonctif avec les noms des joueurs
+write.csv(nba_dummies, file = "nba_height_dummies.csv", row.names = FALSE)
+
+
+
+nba[, c("Player", "Height", "Height_cat")]
+
+
+
+
+
 head(nba)
 summary(nba)
 
